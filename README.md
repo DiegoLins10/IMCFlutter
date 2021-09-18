@@ -12,4 +12,5 @@ Um aplicativo usando flutter que calcula o √çndice de Massa Corporal (IMC) que √
 - Vs code
 - Dart
 
-![]()
+## Tela principal
+![](https://github.com/DiegoLins10/IMCFlutter/blob/master/pic.jpeg)
